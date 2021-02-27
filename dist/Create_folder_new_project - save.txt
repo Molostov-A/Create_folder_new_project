@@ -1,0 +1,5 @@
+adres_1=D:/002 Проекты
+name_pro_code=2021.1500
+name_pro_nickname=курятник
+name_pro_sity=Киров
+path=S:/002 Проекты/0000.0000 Пример
